@@ -2,7 +2,7 @@
 A generalized function for gradient Descent ML
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feasyai.tech%2Fen%2Fai-definition%2Fgradient-descent%2F&psig=AOvVaw03tKfPe6kbrJw9k-zlJLfP&ust=1691345183002000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjiu_eNxoADFQAAAAAdAAAAABAS" width="530" height="450">
+<img src="https://easyai.tech/wp-content/uploads/2019/01/tiduxiajiang-1.png.webp" width="530" height="450">
 </p>
 
 ## Introduction
