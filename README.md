@@ -2,7 +2,7 @@
 A generalized function for gradient Descent ML
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fprimo.ai%2Findex.php%3Ftitle%3DGradient_Descent_Optimization_%2526_Challenges&psig=AOvVaw03tKfPe6kbrJw9k-zlJLfP&ust=1691345183002000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjiu_eNxoADFQAAAAAdAAAAABAJ)" width="530" height="450">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feasyai.tech%2Fen%2Fai-definition%2Fgradient-descent%2F&psig=AOvVaw03tKfPe6kbrJw9k-zlJLfP&ust=1691345183002000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjiu_eNxoADFQAAAAAdAAAAABAS" width="530" height="450">
 </p>
 
 ## Introduction
